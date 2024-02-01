@@ -1,0 +1,19 @@
+h1
+{
+    font: size 70%;;
+    font-family:Arial;
+}
+h1
+{color:aquamarine;
+text-align:center;
+}
+div
+    {font: size 35%;;
+    font-family:Arial;
+    color:pink;
+text-align:center;}
+    .paragraph {
+        border: 2px solid;
+        padding: 20px;
+        width: 20em;
+      }
