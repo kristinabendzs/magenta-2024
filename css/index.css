@@ -1,19 +1,16 @@
-h1
+div.header-info
 {
-    font: size 70%;;
-    font-family:Arial;
-}
-h1
-{color:aquamarine;
-text-align:center;
-}
-div
-    {font: size 35%;;
-    font-family:Arial;
-    color:pink;
-text-align:center;}
-    .paragraph {
-        border: 2px solid;
+font: size 100%;
+font-family: Georgia;
+color: white;
+text-align: top;
+background-color: rgba(176, 195, 183, 0.546);
+width: 100em;
+height: 175px;}
+div.photography-line-1
+{
+        grid-template-columns:auto;
         padding: 20px;
-        width: 20em;
-      }
+    text-align:center;
+    height: 300px
+}
